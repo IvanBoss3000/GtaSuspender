@@ -1,2 +1,2 @@
 # GtaSuspender
-Gta Sus
+Suspends GTA Online to perform various glitches.
